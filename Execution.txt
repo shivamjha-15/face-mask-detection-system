@@ -1,0 +1,1 @@
+Open the project folder - Type cmd in path and open command prompt in the folder - Type in " python detect_mask_video.py" - Hit Enter.
